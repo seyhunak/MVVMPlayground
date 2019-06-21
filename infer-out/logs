@@ -1,0 +1,21 @@
+[28928][environment] CWD = /Users/sakyurek/eBay/Applications/MVVMPlayground
+[28928][environment] No .inferconfig file found
+[28928][environment] Project root = /Users/sakyurek/eBay/Applications/MVVMPlayground
+[28928][environment] INFER_ARGS =   @/var/folders/2k/72fgf8js6vqb8hl97y4rjfz0395rsg/T/args.tmp.1849ff
+[28928][environment]   ++Contents of '/var/folders/2k/72fgf8js6vqb8hl97y4rjfz0395rsg/T/args.tmp.1849ff':
+[28928][environment]     run
+[28928][environment]   
+[28928][environment] command line arguments:   infer run -- xcodebuild -target -- keep-going
+[28928][environment]                           MVVMPlaygroundAnalyzer: checkers
+[28928][environment] Active checkers: annotation reachability (Java), biabduction (C/C++/ObjC, Java), fragment retains view (Java), immutable cast (Java), liveness (C/C++/ObjC), printf args (Java), ownership (C/C++/ObjC), RacerD (C/C++/ObjC, Java), SIOF (C/C++/ObjC), uninitialized variables (C/C++/ObjC)
+[28928][environment] Infer log identifier is 
+Infer version v0.15.0
+[28928][environment] Copyright 2009 - present Facebook. All Rights Reserved.
+[28928][environment] 
+[28928][   progress] Capturing in xcodebuild mode...
+[28928][ intern err]   /usr/local/Cellar/infer/0.15.0/lib/infer/infer/bin/../lib/python/infer.py
+  -j 4 --project-root /Users/sakyurek/eBay/Applications/MVVMPlayground --out
+  /Users/sakyurek/eBay/Applications/MVVMPlayground/infer-out -- xcodebuild
+  -target -- keep-going MVVMPlayground:
+  exited with code 65
+[28928][ intern err] 

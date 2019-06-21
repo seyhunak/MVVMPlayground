@@ -1,0 +1,19 @@
+[INFO] output of locale.getdefaultlocale(): ('en_US', 'UTF-8')
+[INFO] encoding we chose in the end: UTF-8
+[INFO] Running command /usr/local/Cellar/infer/0.15.0/lib/infer/infer/bin/../lib/python/infer.py -j 4 --project-root /Users/sakyurek/eBay/Applications/MVVMPlayground --out /Users/sakyurek/eBay/Applications/MVVMPlayground/infer-out -- xcodebuild -target -- keep-going MVVMPlayground
+[INFO] Path to infer script /usr/local/Cellar/infer/0.15.0/lib/infer/infer/bin/../lib/python/infer.py (/usr/local/Cellar/infer/0.15.0/lib/infer/infer/lib/python/infer.py)
+[INFO] Platform: Darwin-17.7.0-x86_64-i386-64bit
+[INFO] PATH=/Users/sakyurek/.sdkman/candidates/lazybones/current/bin:/Users/sakyurek/.sdkman/candidates/groovy/current/bin:/Users/sakyurek/.sdkman/candidates/gradle/current/bin:/Users/sakyurek/.rbenv/shims:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/sakyurek/.yadr/bin:/Users/sakyurek/.yadr/bin/yadr
+[INFO] SHELL=/bin/zsh
+[INFO] PWD=/Users/sakyurek/eBay/Applications/MVVMPlayground
+[INFO] Xcode version:
+Xcode 10.1
+Build version 10B61
+
+[INFO] clang version:
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+Target: x86_64-apple-darwin17.7.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+
+[ERROR] Error during capture phase, exiting
